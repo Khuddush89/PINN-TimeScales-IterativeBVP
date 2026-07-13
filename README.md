@@ -7,7 +7,7 @@ This repository contains the numerical codes accompanying the paper
 
 ## Authors
 
-Mahammad Khuddush
+1. Mahammad Khuddush
 
 - Department of Mathematics,
   Vignan's Institute of Information Technology (Autonomous),
@@ -17,6 +17,10 @@ Mahammad Khuddush
   Woxsen University,
   Hyderabad, India
 
+2. Prof. Jehad Alzabut
+   Department of Applied Mathematics
+   Prince Sultan University
+   Saudi Arabia
 ## Contents
 
 ### Example 1
